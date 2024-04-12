@@ -25,10 +25,6 @@ name = "Use Typo Metrics";
 value = 1;
 },
 {
-name = "Write lastChange";
-value = 0;
-},
-{
 name = "Use Line Breaks";
 value = 1;
 }
@@ -963,7 +959,6 @@ over = -24;
 pos = -408;
 },
 {
-over = -24;
 },
 {
 over = 24;
@@ -1057,7 +1052,6 @@ over = -24;
 pos = -420;
 },
 {
-over = -24;
 },
 {
 over = 24;
@@ -21012,6 +21006,7 @@ unicode = 98;
 {
 glyphname = bdotaccent;
 kernRight = b;
+lastChange = "2024-04-12 10:03:04 +0000";
 layers = (
 {
 layerId = "F85E8FEC-B3CD-4A54-BF30-AB1986ECE904";
@@ -21033,8 +21028,8 @@ shapes = (
 ref = b;
 },
 {
-pos = (652,-1);
-ref = dotaccentcomb.case;
+pos = (652,401);
+ref = dotaccentcomb;
 }
 );
 width = 1206;
@@ -22566,6 +22561,7 @@ unicode = 273;
 {
 glyphname = ddotaccent;
 kernLeft = c;
+lastChange = "2024-04-12 10:02:53 +0000";
 layers = (
 {
 layerId = "F85E8FEC-B3CD-4A54-BF30-AB1986ECE904";
@@ -22588,8 +22584,9 @@ shapes = (
 ref = d;
 },
 {
-pos = (593,-1);
-ref = dotaccentcomb.case;
+alignment = -1;
+pos = (604,318);
+ref = dotaccentcomb;
 }
 );
 width = 1198;
@@ -38417,38 +38414,6 @@ width = 448;
 }
 );
 unicode = 42892;
-},
-{
-glyphname = bdotaccent.001;
-kernRight = b;
-layers = (
-{
-layerId = "F85E8FEC-B3CD-4A54-BF30-AB1986ECE904";
-shapes = (
-{
-ref = b;
-},
-{
-pos = (664,318);
-ref = dotaccentcomb;
-}
-);
-width = 1204;
-},
-{
-layerId = "C6C96970-2BBD-4A47-8C90-C83F37B7F23D";
-shapes = (
-{
-ref = b;
-},
-{
-pos = (652,-1);
-ref = dotaccentcomb.case;
-}
-);
-width = 1206;
-}
-);
 },
 {
 glyphname = istroke.dotless;
@@ -77258,6 +77223,28 @@ instanceInterpolations = {
 "F85E8FEC-B3CD-4A54-BF30-AB1986ECE904" = 1;
 };
 name = Regular;
+},
+{
+axesValues = (
+500
+);
+instanceInterpolations = {
+"C6C96970-2BBD-4A47-8C90-C83F37B7F23D" = 0.33333;
+"F85E8FEC-B3CD-4A54-BF30-AB1986ECE904" = 0.66667;
+};
+name = Medium;
+weightClass = 500;
+},
+{
+axesValues = (
+600
+);
+instanceInterpolations = {
+"C6C96970-2BBD-4A47-8C90-C83F37B7F23D" = 0.66667;
+"F85E8FEC-B3CD-4A54-BF30-AB1986ECE904" = 0.33333;
+};
+name = SemiBold;
+weightClass = 600;
 },
 {
 axesValues = (
