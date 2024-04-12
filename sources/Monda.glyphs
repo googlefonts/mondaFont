@@ -38458,8 +38458,31 @@ width = 519;
 },
 {
 glyphname = c_h;
+lastChange = "2024-04-12 10:10:16 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+pos = (583,0);
+},
+{
+name = bottom_2;
+pos = (1748,0);
+},
+{
+name = caret_1;
+pos = (1165,0);
+},
+{
+name = top_1;
+pos = (583,1060);
+},
+{
+name = top_2;
+pos = (1748,1060);
+}
+);
 layerId = "F85E8FEC-B3CD-4A54-BF30-AB1986ECE904";
 shapes = (
 {
@@ -38473,6 +38496,28 @@ ref = h;
 width = 2330;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (591,0);
+},
+{
+name = bottom_2;
+pos = (1774,0);
+},
+{
+name = caret_1;
+pos = (1182.5,0);
+},
+{
+name = top_1;
+pos = (591,1074);
+},
+{
+name = top_2;
+pos = (1774,1074);
+}
+);
 layerId = "C6C96970-2BBD-4A47-8C90-C83F37B7F23D";
 shapes = (
 {
@@ -38491,8 +38536,31 @@ metricRight = h;
 },
 {
 glyphname = c_t;
+lastChange = "2024-04-12 10:10:16 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+pos = (485,0);
+},
+{
+name = bottom_2;
+pos = (1454,0);
+},
+{
+name = caret_1;
+pos = (969,0);
+},
+{
+name = top_1;
+pos = (485,1060);
+},
+{
+name = top_2;
+pos = (1454,1060);
+}
+);
 layerId = "F85E8FEC-B3CD-4A54-BF30-AB1986ECE904";
 shapes = (
 {
@@ -38506,6 +38574,28 @@ ref = t;
 width = 1938;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (481,0);
+},
+{
+name = bottom_2;
+pos = (1442,0);
+},
+{
+name = caret_1;
+pos = (961.5,0);
+},
+{
+name = top_1;
+pos = (481,1074);
+},
+{
+name = top_2;
+pos = (1442,1074);
+}
+);
 layerId = "C6C96970-2BBD-4A47-8C90-C83F37B7F23D";
 shapes = (
 {
@@ -38524,8 +38614,15 @@ metricRight = t;
 },
 {
 glyphname = f_f;
+lastChange = "2024-04-12 10:10:16 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (741,0);
+}
+);
 layerId = "F85E8FEC-B3CD-4A54-BF30-AB1986ECE904";
 shapes = (
 {
@@ -38582,6 +38679,12 @@ nodes = (
 width = 1482;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (711,0);
+}
+);
 background = {
 shapes = (
 {
@@ -38697,8 +38800,19 @@ width = 1422;
 glyphname = f_f_i;
 kernLeft = period;
 kernRight = period;
+lastChange = "2024-04-12 10:10:16 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (1018.5,0);
+},
+{
+name = caret_2;
+pos = (1358,0);
+}
+);
 background = {
 shapes = (
 {
@@ -38845,6 +38959,16 @@ nodes = (
 width = 2037;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (958.5,0);
+},
+{
+name = caret_2;
+pos = (1278,0);
+}
+);
 layerId = "C6C96970-2BBD-4A47-8C90-C83F37B7F23D";
 shapes = (
 {
@@ -38924,8 +39048,19 @@ metricRight = i;
 },
 {
 glyphname = f_f_l;
+lastChange = "2024-04-12 10:10:16 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (717.667,0);
+},
+{
+name = caret_2;
+pos = (1435.333,0);
+}
+);
 background = {
 shapes = (
 {
@@ -39070,6 +39205,16 @@ nodes = (
 width = 2153;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (688.333,0);
+},
+{
+name = caret_2;
+pos = (1376.667,0);
+}
+);
 background = {
 shapes = (
 {
@@ -39203,8 +39348,31 @@ metricRight = l;
 },
 {
 glyphname = f_j;
+lastChange = "2024-04-12 10:10:16 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+pos = (330,0);
+},
+{
+name = bottom_2;
+pos = (990,0);
+},
+{
+name = caret_1;
+pos = (660,0);
+},
+{
+name = top_1;
+pos = (330,1506);
+},
+{
+name = top_2;
+pos = (990,1506);
+}
+);
 background = {
 shapes = (
 {
@@ -39317,6 +39485,28 @@ nodes = (
 width = 1320;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (326,0);
+},
+{
+name = bottom_2;
+pos = (978,0);
+},
+{
+name = caret_1;
+pos = (652,0);
+},
+{
+name = top_1;
+pos = (326,1515);
+},
+{
+name = top_2;
+pos = (978,1515);
+}
+);
 background = {
 shapes = (
 {
@@ -39387,8 +39577,15 @@ metricRight = j;
 },
 {
 glyphname = fi;
+lastChange = "2024-04-12 10:10:16 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (670,0);
+}
+);
 layerId = "F85E8FEC-B3CD-4A54-BF30-AB1986ECE904";
 shapes = (
 {
@@ -39438,6 +39635,12 @@ nodes = (
 width = 1340;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (640.5,0);
+}
+);
 background = {
 shapes = (
 {
@@ -39538,8 +39741,15 @@ unicode = 64257;
 },
 {
 glyphname = fl;
+lastChange = "2024-04-12 10:10:16 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (730.5,0);
+}
+);
 background = {
 shapes = (
 {
@@ -39634,6 +39844,12 @@ nodes = (
 width = 1461;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (709.5,0);
+}
+);
 background = {
 shapes = (
 {
@@ -39732,8 +39948,15 @@ unicode = 64258;
 },
 {
 glyphname = s_t;
+lastChange = "2024-04-12 10:10:16 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (912,0);
+}
+);
 layerId = "F85E8FEC-B3CD-4A54-BF30-AB1986ECE904";
 shapes = (
 {
@@ -39747,6 +39970,12 @@ ref = t;
 width = 1824;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (903,0);
+}
+);
 layerId = "C6C96970-2BBD-4A47-8C90-C83F37B7F23D";
 shapes = (
 {
